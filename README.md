@@ -24,6 +24,8 @@ The main script has an argparser for specifying the user.
 
 - Code cleanup
 - Add backwards support
+- make sure readme is the filename, not repo name, also add that as optional
+- input sanitization/check if users are valid
 - Add support for private github repositories
 - Flag to preserve last commit date if appending source repository URL (optional)
 - Git credential management (prevent conflicts if using an archival account/auth)
